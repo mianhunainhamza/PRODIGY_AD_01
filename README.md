@@ -1,6 +1,4 @@
-# prodigy
-
-Calculator App for Internship
+Calculator App
 
 ## Getting Started
 
